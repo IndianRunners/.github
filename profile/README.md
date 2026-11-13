@@ -2,7 +2,7 @@
 
 # IndianRunners
 
-Open-source running projects from India.
+Running projects and community tools from India.
 
 </div>
 
